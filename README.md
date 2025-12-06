@@ -138,9 +138,7 @@ Para exponer el 28 DE OCTUBRE, <u>HACER UNA SINOPSIS DEL VIEJO CELOSO DE CERVANT
 
 5-11-2025: [Texto EL MALENTENDIDO de Albert Camus](./doc/albert-camus-el-malentendido.pdf)
 
-29-10-2025: [Texto UNA PETICION DE MANO de Anton Chejov](./doc/UNA PETICION DE MANO CHEJOV.pdf)
-
-
+29-10-2025: [Texto UNA PETICION DE MANO de Anton Chejov](./doc/una-peticion-de-mano.pdf)
 
 22-10-2025: Confidencias de mujer -Alonso de Santos
 
