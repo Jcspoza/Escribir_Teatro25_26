@@ -138,6 +138,6 @@ Para exponer el 28 DE OCTUBRE, <u>HACER UNA SINOPSIS DEL VIEJO CELOSO DE CERVANT
 
 29-10-2025: [Texto UNA PETICIÓN DE MANO de Antón Chéjov](./doc/UNA PETICION DE MANO CHEJOV.pdf)
 
-22-10-2025: (Confidencias de mujer -Alonso de Santos)[./doc/Confidencias de mujer_Alonso de Santos.pdf]
+22-10-2025: [Confidencias de mujer -Alonso de Santos](./doc/Confidencias de mujer_Alonso de Santos.pdf)
 
-22-10-2025: (Azul y Rojo-  Alonso de Santos)[./doc/Azul y Rojo_Alonso de Santos.pdf]
+22-10-2025: [Azul y Rojo-  Alonso de Santos](./doc/Azul y Rojo_Alonso de Santos.pdf)
