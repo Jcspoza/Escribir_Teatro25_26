@@ -1,10 +1,24 @@
 # Taller de escritura teatral iniciación 2025 - 2026 - CMM BML
 
-Impartido por : Carlos Mochales
+Impartido por : **Carlos Mochales**
 
-Pagina web de soporte , editada por el alumno : Jose Carlos Santamaria
+Pagina web de soporte , editada por el alumno : <u>Jose Carlos Santamaria</u>
 
 La pagina incluirá un resumen de de las propuestas de trabajo, los ejercicios de los alumnos y textos de autores teatrales propuestos para su analisis.
+
+Alumnos :
+
+Carlos Taberneiro
+
+Raul Escudero
+
+Maria Jose Ferreiro
+
+Pilar
+
+Rigoberto
+
+Jose Carlos Santamaria
 
 ## Novedades
 
@@ -84,6 +98,10 @@ Recibe el nombre de "espinela" por su creador Vicente Espinel, quien popularizó
 
 ### Últimos textos teatrales para analisis
 
+[Texto EL MALENTENDIDO  de Albert Camus](./doc/albert-camus-el-malentendido.pdf)
+
+
+
 ---
 
 ## Ejercicios de los alumnos
@@ -92,4 +110,10 @@ Recibe el nombre de "espinela" por su creador Vicente Espinel, quien popularizó
 
 ## Propuestas de trabajo : histórico
 
-## Textos Teatrales para analisis : Histórico
+#### 4nov25-Noche de verano con ola de calor
+
+## Textos Teatrales para analisis : histórico
+
+5-11-2025: Texto EL MALENTENDIDO  de Albert Camus.
+
+ texto UNA PETICIÓN DE MANO de Antón Chéjov.
