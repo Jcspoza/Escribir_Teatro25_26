@@ -96,11 +96,7 @@ Recibe el nombre de "espinela" por su creador Vicente Espinel, quien popularizó
 
 ### Alumno : Jose Carlos Santamaria
 
-[28oct25-Noche de verano con ola de calor : Dos soledades](.doc/JCSP-Noche_verano-dos_soledades.pdf)
-
-
-
-
+[28oct25-Noche de verano con ola de calor : Dos soledades](./doc/JCSP-Noche_verano-dos_soledades.pdf)
 
 ## Propuestas de trabajo : histórico
 
