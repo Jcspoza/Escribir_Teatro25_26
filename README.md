@@ -6,19 +6,9 @@ Pagina web de soporte , editada por el alumno : <u>Jose Carlos Santamaria</u>
 
 La pagina incluirá un resumen de de las propuestas de trabajo, los ejercicios de los alumnos y textos de autores teatrales propuestos para su analisis.
 
-Alumnos :
+Alumnos : 
 
-Carlos Taberneiro
-
-Raul Escudero
-
-Maria Jose Ferreiro
-
-Pilar
-
-Rigoberto
-
-Jose Carlos Santamaria
+Carlos Taberneiro // Raul Escudero // Pilar // Rigoberto // Jose Carlos Santamaria
 
 ## Novedades
 
@@ -100,8 +90,6 @@ Recibe el nombre de "espinela" por su creador Vicente Espinel, quien popularizó
 
 [Texto EL MALENTENDIDO  de Albert Camus](./doc/albert-camus-el-malentendido.pdf)
 
-
-
 ---
 
 ## Ejercicios de los alumnos
@@ -110,10 +98,46 @@ Recibe el nombre de "espinela" por su creador Vicente Espinel, quien popularizó
 
 ## Propuestas de trabajo : histórico
 
-#### 4nov25-Noche de verano con ola de calor
+#### 28oct25-Noche de verano con ola de calor
+
+OBJETIVO: <u>ESCRIBIR UNA ESCENA DE DOS O  TRES PÁGINAS, CON LA TEMÁTICA  "NOCHE DE VERANO CON OLA DE CALOR"</u>
+
+La acción transcurre durante la noche , en un banco de un parque público .
+
+Intervienen DOS , personajes ( femeninos o  masculinos)
+
+Concretamente lo que debéis hacer para el martes 4 de noviembre: 
+
+1. TÍTULO de vuestra historia. 
+
+2. PREMISA , en una o dos líneas ( DE qué trata vuestra historia , conflicto principal o detonante de la historia) 
+
+3. SINOPSIS detallada describiendo las acciones y las emociones o sentimientos.
+
+4. DECORADO Describir el parque público y donde está ubicado.
+
+5. PERSONAJES Describir el perfil de cada personaje (Nombre, edad  y entre seis y ocho adjetivos sobre su personalidad.) Describe brevemente algunos aspectos de su vida, cuál es su objetivo,  conflicto y su relación con el otro personaje. 
+
+DE MOMENTO NO HACE FALTA HACER LOS DIÁLOGOS.
+
+Actualización a 5-11-2025 : Quien tenga, los perfiles de los personajes, el "conflicto general" y un boceto de la trama principal  <u>puede  comenzar con los diálogos</u>. 
+
+#### 21oct25-Sinopsis "Viejo celoso"
+
+Para exponer el 28 DE OCTUBRE, <u>HACER UNA SINOPSIS DEL VIEJO CELOSO DE CERVANTES.</u>
+
+1. DESCRIBIR EL DECORADO.
+
+2. HACER UNA DESCRIPCIÓN DE LOS PERFILES DE LOS PERSONAJES : Lorenza, Cañizares, Cristina y Ortigosa. INCLUIR edad y entre seis y ocho adjetivos sobre su personalidad. 
+
+3. DESCRIBIR LAS ACCIONES, ACONTECIMIENTOS  Y SENTIMIENTOS EN CADA ESCENA
 
 ## Textos Teatrales para analisis : histórico
 
-5-11-2025: Texto EL MALENTENDIDO  de Albert Camus.
+5-11-2025: [Texto EL MALENTENDIDO de Albert Camus](./doc/albert-camus-el-malentendido.pdf)
 
- texto UNA PETICIÓN DE MANO de Antón Chéjov.
+29-10-2025: [Texto UNA PETICIÓN DE MANO de Antón Chéjov](./doc/UNA PETICION DE MANO CHEJOV.pdf)
+
+22-10-2025: (Confidencias de mujer -Alonso de Santos)[./doc/Confidencias de mujer_Alonso de Santos.pdf]
+
+22-10-2025: (Azul y Rojo-  Alonso de Santos)[./doc/Azul y Rojo_Alonso de Santos.pdf]
