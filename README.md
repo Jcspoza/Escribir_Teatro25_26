@@ -144,6 +144,8 @@ Para exponer el 28 DE OCTUBRE, <u>HACER UNA SINOPSIS DEL VIEJO CELOSO DE CERVANT
 
 22-10-2025: [Azul y Rojo-  Alonso de Santos](./doc/Azul-y-Rojo_AlonsodeSantos.pdf)
 
+[Entremés del VIEJO CELOSO Miguel de Cervantes](./doc/viejo_celoso_de_cervantes.pdf)
+
 
 
 ---
