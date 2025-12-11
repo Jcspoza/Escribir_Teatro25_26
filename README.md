@@ -88,7 +88,9 @@ Recibe el nombre de "espinela" por su creador Vicente Espinel, quien popularizó
 
 ### Últimos textos teatrales para analisis
 
-[Texto EL MALENTENDIDO  de Albert Camus](./doc/albert-camus-el-malentendido.pdf)
+9-12-2025 [Texto de Jean Pierre Martínez "El yerno ideal"](./doc/elyerno_comediatheque_final.pdf)
+
+
 
 ---
 
@@ -136,7 +138,9 @@ Para exponer el 28 DE OCTUBRE, <u>HACER UNA SINOPSIS DEL VIEJO CELOSO DE CERVANT
 
 ## Textos Teatrales para analisis : histórico
 
-5-11-2025: [Texto EL MALENTENDIDO de Albert Camus](./doc/albert-camus-el-malentendido.pdf)
+9-12-2025 [Texto de Jean Pierre Martínez "El yerno ideal"](./doc/elyerno_comediatheque_final.pdf)
+
+5-11-2025 [Texto de Albert Camus "El malentendido"](./doc/albert-camus-el-malentendido.pdf.pdf)
 
 29-10-2025: [Texto UNA PETICION DE MANO de Anton Chejov](./doc/una-peticion-de-mano.pdf)
 
@@ -145,7 +149,5 @@ Para exponer el 28 DE OCTUBRE, <u>HACER UNA SINOPSIS DEL VIEJO CELOSO DE CERVANT
 22-10-2025: [Azul y Rojo-  Alonso de Santos](./doc/Azul-y-Rojo_AlonsodeSantos.pdf)
 
 [Entremés del VIEJO CELOSO Miguel de Cervantes](./doc/viejo_celoso_de_cervantes.pdf)
-
-
 
 ---
