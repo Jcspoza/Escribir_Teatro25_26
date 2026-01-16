@@ -14,11 +14,25 @@ Carlos Taberneiro // Raul Escudero // Pilar // Rigoberto // Jose Carlos Santamar
 
 ### Noticias
 
-Ultimo día de clase en 2025 : **16 de diciembre de 2025**
+Se ha incorporado al grupo Carlos Díez ( otro Carlos jajaja) que están haciendo una obra en la sala Tarambana (Carabanchel)
 
-Primer día de clase en 2026 :  **13 de enero 2026**
+[La escuela perdida - Teatro Tarambana - Tarambana Espectáculos](https://tarambana.net/espectaculos/la-escuela-perdida/)
 
 ### Ultimas propuestas de trabajo
+
+#### 13ene26-Monologo de un personaje del Quijote sobre su visión del quijote
+
+ver este pdf
+
+##### Personajes ya escogidos
+
+- MARCELA --> Pilar
+
+- GINES DE PASAMONTE, LUEGO MAESE PEDRO  -> Carlos Diez
+
+- EL BACHILLER SANSÓN CARRASCO -> Carlos Taberneiro
+
+- EL AMA -> Raul Escudero
 
 #### 2dic25a-Poesía
 
@@ -88,9 +102,18 @@ Recibe el nombre de "espinela" por su creador Vicente Espinel, quien popularizó
 
 ### Últimos textos teatrales para analisis
 
+13-1-2026 : [Mientras cabalga Don Quijote | Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/obra-visor/mientras-cabalga-don-quijote--0/html/00ee7d0a-82b2-11df-acc7-002185ce6064_2.html)
+
+Os paso una versión teatral inspirada en personajes del Quijote. 
+Aquí podéis ver como Petra-Jesús Blanco Rubio crea un perfil de personajes y una trama que no es idéntica a la novela de Cervantes.
+
 9-12-2025 [Texto de Jean Pierre Martínez "El yerno ideal"](./doc/elyerno_comediatheque_final.pdf)
 
+### Últimos videos de Teatro visionados
 
+13-1-2026 : [Nosotros, ellas y el duende - Teatro - Estudio 1, TVE - YouTube](https://youtu.be/6PUEMqE194Q?si=YjY0osa3x-HdRaS1)
+
+Visionado hasta minuto 18
 
 ---
 
@@ -138,6 +161,8 @@ Para exponer el 28 DE OCTUBRE, <u>HACER UNA SINOPSIS DEL VIEJO CELOSO DE CERVANT
 
 ## Textos Teatrales para analisis : histórico
 
+13-1-2026 : [Mientras cabalga Don Quijote | Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/obra-visor/mientras-cabalga-don-quijote--0/html/00ee7d0a-82b2-11df-acc7-002185ce6064_2.html)
+
 9-12-2025 [Texto de Jean Pierre Martínez "El yerno ideal"](./doc/elyerno_comediatheque_final.pdf)
 
 5-11-2025 [Texto de Albert Camus "El malentendido"](./doc/albert-camus-el-malentendido.pdf.pdf)
@@ -149,5 +174,13 @@ Para exponer el 28 DE OCTUBRE, <u>HACER UNA SINOPSIS DEL VIEJO CELOSO DE CERVANT
 22-10-2025: [Azul y Rojo-  Alonso de Santos](./doc/Azul-y-Rojo_AlonsodeSantos.pdf)
 
 [Entremés del VIEJO CELOSO Miguel de Cervantes](./doc/viejo_celoso_de_cervantes.pdf)
+
+
+
+## Videos teatrales visionados - Histórico
+
+13-1-2026 : [Nosotros, ellas y el duende - Teatro - Estudio 1, TVE - YouTube](https://youtu.be/6PUEMqE194Q?si=YjY0osa3x-HdRaS1)
+
+
 
 ---
