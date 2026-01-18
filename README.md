@@ -20,9 +20,11 @@ Se ha incorporado al grupo Carlos Díez ( otro Carlos jajaja) que están haciend
 
 ### Ultimas propuestas de trabajo
 
-#### 13ene26-Monologo de un personaje del Quijote sobre su visión del quijote
+#### 13ene26-Escrito teatral de un personaje del Quijote sobre su visión del quijote
 
-ver este pdf
+Instrucciones detalladas  en este ficher pdf [Yo estuve con Don Quijote](./doc/Yo estuve con Don Quijote.pdf)
+
+
 
 ##### Personajes ya escogidos
 
@@ -175,12 +177,8 @@ Para exponer el 28 DE OCTUBRE, <u>HACER UNA SINOPSIS DEL VIEJO CELOSO DE CERVANT
 
 [Entremés del VIEJO CELOSO Miguel de Cervantes](./doc/viejo_celoso_de_cervantes.pdf)
 
-
-
 ## Videos teatrales visionados - Histórico
 
 13-1-2026 : [Nosotros, ellas y el duende - Teatro - Estudio 1, TVE - YouTube](https://youtu.be/6PUEMqE194Q?si=YjY0osa3x-HdRaS1)
-
-
 
 ---
