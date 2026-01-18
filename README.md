@@ -8,7 +8,7 @@ La pagina incluirá un resumen de de las propuestas de trabajo, los ejercicios d
 
 Alumnos : 
 
-Carlos Taberneiro // Raul Escudero // Pilar // Rigoberto // Jose Carlos Santamaria
+Carlos Taberneiro // Raul Escudero // Pilar // Rigoberto // Jose Carlos Santamaria// Carlos Diez
 
 ## Novedades
 
@@ -22,9 +22,7 @@ Se ha incorporado al grupo Carlos Díez ( otro Carlos jajaja) que están haciend
 
 #### 13ene26-Escrito teatral de un personaje del Quijote sobre su visión del quijote
 
-Instrucciones detalladas  en este ficher pdf [Yo estuve con Don Quijote](./doc/Yo estuve con Don Quijote.pdf)
-
-
+Instrucciones detalladas  en este fichero [Yo_estuve_con_Don_Quijote](./doc/Yo_estuve_con_Don_Quijote.pdf)
 
 ##### Personajes ya escogidos
 
