@@ -90,6 +90,12 @@ Visionado hasta minuto 18
 
 [28oct25-Noche de verano con ola de calor : Dos soledades](./doc/JCSP-Noche_verano-dos_soledades.pdf)
 
+### Alumna : Ana
+
+[10Feb2026 : Un Fatal Descubrimiento ](./doc/Ana_UN_FATAL_DESCUBRIMIENTO.pdf)
+
+
+
 ## Propuestas de trabajo : histórico
 
 #### 2dic25a-Poesía
